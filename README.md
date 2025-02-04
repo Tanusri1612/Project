@@ -1,2 +1,2 @@
 # Project
-Building a decentralized application for landregistry using Blockchain technology
+Built an decentralized application for landregistry using Blockchain technology
